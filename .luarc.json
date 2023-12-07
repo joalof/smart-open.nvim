@@ -8,5 +8,14 @@
         "lvim",
         "packer_plugins",
         "files"
+    ],
+    "workspace.library": [
+        "/home/joalof/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/home/joalof/apps/nvim/share/nvim/runtime/lua",
+        "/home/joalof/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/home/joalof/apps/nvim/share/nvim/runtime/lua",
+        "/home/joalof/code/nvim/smart-open.nvim/lua",
+        "/home/joalof/code/nvim/smart-open.nvim/lua",
+        "${3rd}/luv/library"
     ]
 }
